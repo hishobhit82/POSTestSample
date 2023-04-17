@@ -1,4 +1,4 @@
-﻿using PostTest.Proxy;
+﻿using PosTest.Proxy;
 using System;
 using System.Linq;
 
